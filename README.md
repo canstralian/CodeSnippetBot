@@ -12,7 +12,7 @@ license: apache-2.0
 
 # CodeSnippetBot: Your Personal Code Snippet Manager
 
-[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/YOUR_HF_USERNAME/CodeSnippetBot)  *(Replace with your HF Space link)*
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/canstralian/CodeSnippetBot)
 
 Tired of losing track of those valuable code snippets?  CodeSnippetBot is here to rescue you! This Telegram bot acts as your personal code snippet manager, allowing you to easily save, organize, search, and share your code snippets.
 
