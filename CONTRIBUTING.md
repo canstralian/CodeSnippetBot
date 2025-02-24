@@ -41,3 +41,8 @@ Submit a pull request to the main branch of the original repository. Please incl
 We recommend using Black for code formatting.
 Use flake8 to check for style issues.
 Write clear and concise docstrings for functions and classes. 
+
+Reporting Issues
+If you encounter any issues or have suggestions for improvements, please check our issue tracker and open a new issue if necessary.
+
+Thank you for contributing!
